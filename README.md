@@ -10,3 +10,4 @@
         * [Mirgratory Birds](https://www.hackerrank.com/challenges/migratory-birds/problem)  | [Python solution](Algorithms/Implementation/E04%Migratory%Birds.py) | Score:10
         * [Day of the programmer](https://www.hackerrank.com/challenges/day-of-the-programmer/problem)  | [Python solution](Algorithms/Implementation/E05%Day%of%the%Programmer.py) | Score:10
         * [Bon-appetit](https://www.hackerrank.com/challenges/bon-appetit/problem)  | [Python solution](Algorithms/Implementation/E06_bon-appetit.py) | Score:10
+        * [Sales by Match](https://www.hackerrank.com/challenges/sock-merchant/problem)  | [Python solution](Algorithms/Implementation/E07-Sales_by_Match.py) | Score:10
