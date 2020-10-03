@@ -13,3 +13,4 @@
         * [Sales by Match](https://www.hackerrank.com/challenges/sock-merchant/problem)  | [Python solution](Algorithms/Implementation/E07-Sales_by_Match.py) | Score:10
         * [Drawing Book](https://www.hackerrank.com/challenges/drawing-book/problem)  | [Python solution](Algorithms/Implementation/E08-Drawing_Book.py) | Score:10
         * [Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys/problem)  | [Python solution](Algorithms/Implementation/E09-Counting_Valleys.py) | Score:15
+        * [Electronics Shop](https://www.hackerrank.com/challenges/electronics-shop/problem)  | [Python solution](Algorithms/Implementation/Electronics_Shop.py) | Score:15
