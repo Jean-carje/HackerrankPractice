@@ -3,7 +3,7 @@
 # Score solution: 15.00
 
 # -------------------------------------------
-# Soluction 1
+# Solution 1
 
 def catAndMouse(x, y, z):
     posA = abs(x - z)
@@ -14,6 +14,8 @@ def catAndMouse(x, y, z):
         return 'Cat A'
     else:
         return 'Cat B'
+
+
 
 
 # -------------------------------------------
