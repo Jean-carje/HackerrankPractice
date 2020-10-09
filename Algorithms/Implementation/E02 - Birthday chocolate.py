@@ -3,7 +3,7 @@
 
 # Score: 10
 
-# Soluction 
+# Solution 
 
 def birthday(s, d, m):
     count = 0

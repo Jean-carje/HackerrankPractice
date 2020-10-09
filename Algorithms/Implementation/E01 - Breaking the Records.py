@@ -3,7 +3,7 @@
 
 # Score: 10
 
-# Soluction 
+# Solution 
 def breakingRecords(scores):
     h_score = scores[0]
     l_score = scores[0]

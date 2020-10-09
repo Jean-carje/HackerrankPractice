@@ -4,7 +4,7 @@
 # Score solution: 10.00
 
 # -------------------------------------------
-# Soluction 1
+# Solution 1
 
 def pageCount(n, p):
     if p > n // 2:
@@ -14,7 +14,7 @@ def pageCount(n, p):
     return 0
 
 
-# Soluction 2:
+# Solution 2:
 
 # def pageCount(n, p):
 #     count = 0

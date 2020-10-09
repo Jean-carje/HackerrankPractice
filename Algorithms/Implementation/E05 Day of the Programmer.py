@@ -4,7 +4,7 @@
 # Score solution: 15.00
 
 # -------------------------------------------
-# Soluction 1 
+# Solution 1 
 def dayOfProgrammer(year):
     if 1700 <= year <= 1917:
         if year % 4 == 0 or year % 400 == 0:

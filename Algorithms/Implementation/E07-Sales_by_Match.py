@@ -4,7 +4,7 @@
 # Score solution: 10.00
 
 # -------------------------------------------
-# Soluction 1 
+# Solution 1
 def sockMerchant(n, ar):
     count = 0
     for i in set(ar):

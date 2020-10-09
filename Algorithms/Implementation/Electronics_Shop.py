@@ -3,7 +3,7 @@
 # Score solution: 15.00
 
 # -------------------------------------------
-# Soluction 1
+# Solution 1
 
 def getMoneySpent(keyboards, drives, b):
     temp = 0

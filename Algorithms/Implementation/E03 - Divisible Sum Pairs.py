@@ -3,7 +3,7 @@
 
 # Score: 10
 
-# Soluction 
+# Solution
 
 def divisibleSumPairs(n, k, ar):
     count = 0

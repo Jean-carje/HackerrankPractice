@@ -4,7 +4,7 @@
 # Score solution: 15.00
 
 # -------------------------------------------
-# Soluction 1 
+# Solution 1 
 def bonAppetit(bill, k, b):
     del bill[k]
     count = (sum(bill)) // 2

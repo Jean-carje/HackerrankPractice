@@ -4,7 +4,7 @@
 # Score solution: 15.00
 
 # -------------------------------------------
-# Soluction 1
+# Solution 1
 
 def countingValleys(steps, path):
     lvl = 0

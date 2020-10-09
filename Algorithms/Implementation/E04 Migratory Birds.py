@@ -5,12 +5,12 @@
 # Score solution 2: 10
 
 # -------------------------------------------
-# Soluction 1 
+# Solution 1
 # from collections import Counter
 # def migratoryBirds(arr):
 #     return Counter(arr).most_common()[0][0]
 
-# Soluction 2   
+# Solution 2
 def migratoryBirds(arr):
     birds = [0]*6
     for i in arr:
