@@ -15,3 +15,7 @@
         * [Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys/problem)  | [Python solution](Algorithms/Implementation/E09-Counting_Valleys.py) | Score:15
         * [Electronics Shop](https://www.hackerrank.com/challenges/electronics-shop/problem)  | [Python solution](Algorithms/Implementation/Electronics_Shop.py) | Score:15
         * [Cats and a Mouse](https://www.hackerrank.com/challenges/cats-and-a-mouse/problem)  | [Python solution](Algorithms/Implementation/Cats_and_Mouse.py) | Score:15
+
+2. **Data Structures**
+    * Arrays
+        * [2D Array](https://www.hackerrank.com/challenges/2d-array/)  | [Python solution](Algorithms/Implementation/E01%-%Breaking%the%Records.py) | Score:15
