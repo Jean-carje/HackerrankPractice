@@ -18,4 +18,4 @@
 
 2. **Data Structures**
     * Arrays
-        * [2D Array](https://www.hackerrank.com/challenges/2d-array/)  | [Python solution](Algorithms/Implementation/E01%-%Breaking%the%Records.py) | Score:15
+        * [2D Array](https://www.hackerrank.com/challenges/2d-array/)  | [Python solution](Data%Structures/Arrays/Array2D.py) | Score:15
