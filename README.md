@@ -18,5 +18,5 @@
 
 2. **Data Structures**
     * Arrays
-        * [2D Array](https://www.hackerrank.com/challenges/2d-array/)  | [Python solution](Data%Structures/Arrays/Array2D.py) | Score:15
-        * [Dynamic Array](https://www.hackerrank.com/challenges/dynamic-array/)  | [Python solution](Data Structures/Arrays/Dynamic_Array.py) | Score:15
+        * [2D Array](https://www.hackerrank.com/challenges/2d-array/)  | [Python solution](DataStructures/Arrays/Array2D.py) | Score:15
+        * [Dynamic Array](https://www.hackerrank.com/challenges/dynamic-array/)  | [Python solution](DataStructures/Arrays/Dynamic_Array.py) | Score:15
