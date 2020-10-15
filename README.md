@@ -21,3 +21,4 @@
         * [2D Array](https://www.hackerrank.com/challenges/2d-array/problem)  | [Python solution](DataStructures/Arrays/Array2D.py) | Score:15
         * [Dynamic Array](https://www.hackerrank.com/challenges/dynamic-array/problem)  | [Python solution](DataStructures/Arrays/Dynamic_Array.py) | Score:15
         * [Left rotation](https://www.hackerrank.com/challenges/array-left-rotation/)  | [Python solution](DataStructures/Arrays/Left_Rotation.py) | Score:20
+        * [Sparse Arrays](https://www.hackerrank.com/challenges/sparse-arrays/problem)  | [Python solution](DataStructures/Arrays/Sparse_Arrays.py) | Score:25
