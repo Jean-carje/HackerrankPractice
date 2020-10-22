@@ -16,6 +16,7 @@
         * [Electronics Shop](https://www.hackerrank.com/challenges/electronics-shop/problem)  | [Python solution](Algorithms/Implementation/Electronics_Shop.py) | Score:15
         * [Cats and a Mouse](https://www.hackerrank.com/challenges/cats-and-a-mouse/problem)  | [Python solution](Algorithms/Implementation/Cats_and_Mouse.py) | Score:15
         * [Climbing the Leaderboard](https://www.hackerrank.com/challenges/climbing-the-leaderboard/)  | [Python solution](Algorithms/Implementation/Climbing_the_Leaderboard.py) | Score:20
+        * [Picking Numbers](https://www.hackerrank.com/challenges/picking-numbers/problem)  | [Python solution](Algorithms/Implementation/Picking_Numbers.py) | Score:20
 
 2. **Data Structures**
     * Arrays
