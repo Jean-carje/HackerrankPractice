@@ -4,6 +4,7 @@
 
 1. **Algorithms**
     * Implementation
+    	* [Extra Long Factorials](https://www.hackerrank.com/challenges/extra-long-factorials/problem)  | [Python solution](Algorithms/Implementation/Extra_Long_Factorials.py) | Score:20
         * [Breaking the Records](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem)  | [Python solution](Algorithms/Implementation/Breaking_the_Records.py) | Score:10
         * [Birthday chocolate](https://www.hackerrank.com/challenges/the-birthday-bar/problem)  | [Python solution](Algorithms/Implementation/Birthday_chocolate.py) | Score:10
         * [Divisible sum pairs](https://www.hackerrank.com/challenges/divisible-sum-pairs/problem)  | [Python solution](Algorithms/Implementation/Divisible_Sum_Pairs.py) | Score:10
@@ -17,6 +18,7 @@
         * [Cats and a Mouse](https://www.hackerrank.com/challenges/cats-and-a-mouse/problem)  | [Python solution](Algorithms/Implementation/Cats_and_Mouse.py) | Score:15
         * [Climbing the Leaderboard](https://www.hackerrank.com/challenges/climbing-the-leaderboard/)  | [Python solution](Algorithms/Implementation/Climbing_the_Leaderboard.py) | Score:20
         * [Picking Numbers](https://www.hackerrank.com/challenges/picking-numbers/problem)  | [Python solution](Algorithms/Implementation/Picking_Numbers.py) | Score:20
+        * [The Hurdle Race](https://www.hackerrank.com/challenges/the-hurdle-race/problem)  | [Python solution](Algorithms/Implementation/The_Hurdle_Race.py) | Score:15
 
 2. **Data Structures**
     * Arrays
