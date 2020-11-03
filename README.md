@@ -19,6 +19,7 @@
         * [Climbing the Leaderboard](https://www.hackerrank.com/challenges/climbing-the-leaderboard/)  | [Python solution](Algorithms/Implementation/Climbing_the_Leaderboard.py) | Score:20
         * [Picking Numbers](https://www.hackerrank.com/challenges/picking-numbers/problem)  | [Python solution](Algorithms/Implementation/Picking_Numbers.py) | Score:20
         * [The Hurdle Race](https://www.hackerrank.com/challenges/the-hurdle-race/problem)  | [Python solution](Algorithms/Implementation/The_Hurdle_Race.py) | Score:15
+        * [Designer PDF Viewer](https://www.hackerrank.com/challenges/designer-pdf-viewer/problem)  | [Python solution](Algorithms/Implementation/Designer_PDF_Viewe.py) | Score:20
 
 2. **Data Structures**
     * Arrays
