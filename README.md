@@ -4,6 +4,7 @@
 
 1. **Algorithms**
     * Implementation
+    	* [Forming a Magic Square](https://www.hackerrank.com/challenges/magic-square-forming/problem)  | [Python solution](Algorithms/Implementation/Forming_a_Magic_Square.py) | Score:20
     	* [Extra Long Factorials](https://www.hackerrank.com/challenges/extra-long-factorials/problem)  | [Python solution](Algorithms/Implementation/Extra_Long_Factorials.py) | Score:20
         * [Breaking the Records](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem)  | [Python solution](Algorithms/Implementation/Breaking_the_Records.py) | Score:10
         * [Birthday chocolate](https://www.hackerrank.com/challenges/the-birthday-bar/problem)  | [Python solution](Algorithms/Implementation/Birthday_chocolate.py) | Score:10
