@@ -30,3 +30,6 @@
         * [Dynamic Array](https://www.hackerrank.com/challenges/dynamic-array/problem)  | [Python solution](DataStructures/Arrays/Dynamic_Array.py) | Score:15
         * [Left rotation](https://www.hackerrank.com/challenges/array-left-rotation/)  | [Python solution](DataStructures/Arrays/Left_Rotation.py) | Score:20
         * [Sparse Arrays](https://www.hackerrank.com/challenges/sparse-arrays/problem)  | [Python solution](DataStructures/Arrays/Sparse_Arrays.py) | Score:25
+	
+	* Linked List
+        * [Print the Elements of a Linked List](https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list/problem)  | [Python solution](DataStructures/LinkedList/print-the-elements-of-a-linked-list.py) | Score:5
