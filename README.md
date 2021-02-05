@@ -33,3 +33,4 @@
 	
 	* Linked List
         * [Print the Elements of a Linked List](https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list/problem)  | [Python solution](DataStructures/LinkedList/print-the-elements-of-a-linked-list.py) | Score:5
+        * [Insert a Node at the Tail of a Linked List](https://www.hackerrank.com/challenges/insert-a-node-at-the-tail-of-a-linked-list/problem)  | [Python solution](DataStructures/LinkedList/insert-a-node-at-the-tail-of-a-linked-list.py) | Score:5
