@@ -23,6 +23,9 @@
         * [Designer PDF Viewer](https://www.hackerrank.com/challenges/designer-pdf-viewer/problem)  | [Python solution](Algorithms/Implementation/Designer_PDF_Viewe.py) | Score:20
         * [Utopian tree](https://www.hackerrank.com/challenges/utopian-tree/problem)  | [Python solution](Algorithms/Implementation/utopian-tree.py) | Score:20
         * [Angry Professor](https://www.hackerrank.com/challenges/angry-professor/problem)  | [Python solution](Algorithms/Implementation/angry-professor.py) | Score:20
+		
+	* Sorting
+    	* [Insertion Sort - Part 1](https://www.hackerrank.com/challenges/insertionsort1/problem)  | [Python solution](Algorithms/sorting/insertionsort1.py) | Score:30
 
 2. **Data Structures**
     * Arrays
