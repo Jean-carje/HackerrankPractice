@@ -27,6 +27,7 @@
 	* Sorting
     	* [Insertion Sort - Part 1](https://www.hackerrank.com/challenges/insertionsort1/problem)  | [Python solution](Algorithms/sorting/insertionsort1.py) | Score:30
     	* [Insertion Sort - Part 2](https://www.hackerrank.com/challenges/insertionsort2/)  | [Javascript solution](Algorithms/sorting/insertionsort2.js) | Score:30
+    	* [Big Sorting](https://www.hackerrank.com/challenges/big-sorting/problem)  | [Python solution](Algorithms/sorting/big-sorting.py) | Score:20
 
 2. **Data Structures**
     * Arrays
