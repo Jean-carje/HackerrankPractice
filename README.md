@@ -24,6 +24,7 @@
         * [Utopian tree](https://www.hackerrank.com/challenges/utopian-tree/problem)  | [Python solution](Algorithms/Implementation/utopian-tree.py) | Score:20
         * [Angry Professor](https://www.hackerrank.com/challenges/angry-professor/problem)  | [Python solution](Algorithms/Implementation/angry-professor.py) | Score:20
         * [Circular Array Rotation](https://www.hackerrank.com/challenges/circular-array-rotation/)  | [Python solution](Algorithms/Implementation/circular-array-rotation.py) | Score:20
+        * [beautiful days at the movies](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/)  | [Python solution](Algorithms/Implementation/beautiful-days-at-the-movies.py) | Score:20
 		
 	* Sorting
     	* [Insertion Sort - Part 1](https://www.hackerrank.com/challenges/insertionsort1/problem)  | [Python solution](Algorithms/sorting/insertionsort1.py) | Score:30
